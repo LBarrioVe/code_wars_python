@@ -2,10 +2,12 @@
 
 Exercises for Code_wars for personal and learning purposes only. 
 
-| Kyus | Second Header |
+| Kyus | Name |
 | ------------- | ------------- |
-| 8 | Counting Sheep |
+| 8 | [Counting Sheep](https://github.com/LBarrioVe/code_wars_python/tree/main/8kyu) |
 | 8  | Content Cell  |
- ------------- | ------------- |
-| 8 | Content Cell  |
+
+| Kyus | Name |
+
+| 7 | Content Cell  |
  
